@@ -1,3 +1,4 @@
+<img  src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" align="right" width="1050" style="margin-top: 300;" >
 <h1 align="center">Hi 👋, I'm Sham Parashar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
@@ -6,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nextstep5" alt="nextstep5" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="Coding" align="right" width="400" style="margin-top: 300;" >
+<img  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="Coding" align="right" width="450" style="margin-top: 300;" >
 
 - 🔭 I’m currently working on **Team Management**
 
